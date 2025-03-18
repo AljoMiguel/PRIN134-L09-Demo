@@ -27,9 +27,9 @@ buttonContainer.style.gap = '10px';
 controlPanel.appendChild(buttonContainer);
 
 
-const highlightButton = createButton('🔍 Highlight Ingredients', 'highlight-btn');
-const checkInstructionsButton = createButton('⏱️ Check Instructions', 'check-btn');
-const resetInstructionsButton = createButton('↺ Reset Instructions', 'reset-btn');
+const highlightButton = createButton(' Highlight Ingredients', 'highlight-btn');
+const checkInstructionsButton = createButton(' Check Instructions', 'check-btn');
+const resetInstructionsButton = createButton(' Reset Instructions', 'reset-btn');
 
 
 
